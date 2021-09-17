@@ -1,2 +1,2 @@
-# advancedPython
-# my name is Yesirkepov Daulet
+# advancedPython 
+my name is Yesirkepov Daulet
